@@ -211,7 +211,7 @@ package behavior.ai
 		public static const STEP_TYPE_WILL_RETURN:String = "即将返回上层节点";
 		public static const STEP_TYPE_RUN:String = "正在执行";
 		public static const STEP_TYPE_SUB_RETURN:String = "子节点返回";
-		public static const STEP_TYPE_RETURN_TO_ROOT:String = "回到根节点，即将整棵树的状态并重新运行";
+		public static const STEP_TYPE_RETURN_TO_ROOT:String = "回到根节点，即将重置整棵树的状态并重新运行";
 		public static const STEP_TYPE_EXIT:String = "退出节点";
 		public static const RUNNING :int = 1;//只在叶子节点使用
 		public static const SUCCESS :int = 2;
