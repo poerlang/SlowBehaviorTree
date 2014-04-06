@@ -28,7 +28,7 @@ package behavior.ai
 					rndChilds();
 					return;
 				}
-				case STEP_TYPE_RUN://如果上一步是进入，接下来就是【选择子节点】
+				case STEP_TYPE_RUN://如果上一步是运行，则运行
 				{
 					doJob();
 					return;
