@@ -78,7 +78,7 @@ package behavior.ai
 					}
 					return;
 				}
-				case STEP_TYPE_RETURN_TO_ROOT://回到根节点，即将整棵树的状态并重新运行。
+				case STEP_TYPE_RETURN_TO_ROOT://回到根节点，即将重置整棵树的状态并重新运行。
 				{
 					reset();
 					return;
