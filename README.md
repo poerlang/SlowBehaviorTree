@@ -10,7 +10,7 @@ AINode配合UINode，实现缓慢的可监控的行为树。
 
 图文简介在这里：
 
-http://topdevil.com/ai_behavior_editor/
+https://moketao.github.io/ai_behavior_editor/
 
 
 
